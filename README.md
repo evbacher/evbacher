@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm @evbacher, a writer and tool developer, formerly at Google, Desktone (VMware), savaJe technologies, Bell Labs.
+- I'm @evbacher, a writer and tool developer, formerly at Google, Desktone (VMware), savaJe technologies, and Bell Labs.
 - 🔭 I’m currently working on maintaining [Docs to Markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607) ([gd2md-html](https://github.com/evbacher/gd2md-html) is the open-source version).
 - 🌱 I’m currently learning more about Git and GitHub.
 - 👯 I’m looking to collaborate on tools related to writing and markup languages.
